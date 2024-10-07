@@ -113,7 +113,7 @@ Nix package manager specific goals:
   NixOS org, so can’t be fixed by the Nix project).
 - Find respectful solution to naming of the Nix Package manager,
   solving the “Nix trinity problem” (we’ll end up with NixOS, Nix the
-  language, and <Nix Package Manager>).
+  language, and \<Nix Package Manager>).
 
 This list will likely evolve and adapt to suit community needs. I see
 a lot of challenges on the horizon, but I believe that the community
